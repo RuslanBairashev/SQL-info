@@ -1,0 +1,5 @@
+Уроки SQL и БД
+https://site-do.ru/db/
+
+Практическое владение языком SQL
+https://www.sql-ex.ru/?Lang=0
