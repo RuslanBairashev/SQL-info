@@ -1,2 +1,21 @@
 Создание базы данных имеет следующий синтаксис:
 create database имя_базы_данных;
+
+Выбор БД для работы:
+use имя_базы_данных;
+
+Для создания таблиц в SQL существует оператор create table. Создание базы данных имеет следующий синтаксис:
+create table имя_таблицы (имя_первого_столбца тип, имя_второго_столбца тип, ..., имя_последнего_столбца тип );
+
+Просмотр списка баз данных в экземпляре SQL Server:
+SELECT name, database_id, create_date  
+FROM sys.databases ;  
+GO
+
+Просмотр таблиц в БД
+SELECT * FROM INFORMATION_SCHEMA.TABLES;
+GO
+
+Просмотр таблицы
+SELECT * FROM INFORMATION_SCHEMA.COLUMNS
+WHERE table_name = '<bd_name>'
