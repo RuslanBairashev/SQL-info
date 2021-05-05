@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=PTAkqURmI0s&ab_channel=LearnQA%3A%D0%9E%D0%BD%D0
 
 Про UNION
 https://metanit.com/sql/sqlserver/7.5.php
+
+Задачки
+https://habr.com/ru/post/461567/
