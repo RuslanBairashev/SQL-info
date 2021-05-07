@@ -21,3 +21,6 @@ https://habr.com/ru/post/461567/
 
 Бесплатный курс Digital-аналитика
 http://thisisdata.ru/courses/digital-analytics/
+
+Оконные функции
+http://thisisdata.ru/blog/uchimsya-primenyat-okonnyye-funktsii/
